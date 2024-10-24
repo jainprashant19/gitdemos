@@ -1,0 +1,2 @@
+this is second file copied to git folder
+For new commit I am modifying it
